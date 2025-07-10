@@ -7,6 +7,6 @@ Com foco em performance e experiência do usuário, o Projeto Circulando utiliza
 
 Esta aplicação pode servir como base para projetos de transporte, logística ou qualquer sistema que precise de uma interface clara para gerenciamento de rotas e informações em tempo real.
 
-![Imagem do projeto](./assets/imagemdoprojeto.png)
+![imagem do projeto](./assets/imagens/bus.png)
 
 
