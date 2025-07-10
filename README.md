@@ -1,12 +1,12 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto Circulando é uma aplicação front-end desenvolvida com React e Vite, que simula um sistema inteligente de mobilidade urbana.
 
-Currently, two official plugins are available:
+O objetivo do projeto é facilitar a visualização e o gerenciamento de rotas de transporte, oferecendo uma interface intuitiva e responsiva para usuários navegarem pelas opções de trajeto, horários e serviços disponíveis.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Com foco em performance e experiência do usuário, o Projeto Circulando utiliza tecnologias modernas como React para construção dinâmica dos componentes e Vite para um ambiente de desenvolvimento rápido e eficiente.
 
-## Expanding the ESLint configuration
+Esta aplicação pode servir como base para projetos de transporte, logística ou qualquer sistema que precise de uma interface clara para gerenciamento de rotas e informações em tempo real.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Imagem do projeto](./assets/imagemdoprojeto.png)
+
+
